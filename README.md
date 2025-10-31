@@ -158,17 +158,6 @@ plt.show()
 5. **Metrics & Analysis** (resilience, coordination efficiency)
 6. **Conclusion & Next Steps**
 
----
 
-✅ With this, your **repo is fully ready for a PhD committee**:
 
-* Professional README with badges
-* Demo simulation notebook
-* Automatic visual abstract generation
-* Clear research motivation and relevance to MIT IDSS
 
----
-
-If you want, I can **also draft the completed demo notebook with working simulation code for agents**, so the repo is immediately runnable and **committee-ready**.
-
-Do you want me to do that next?
