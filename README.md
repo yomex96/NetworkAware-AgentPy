@@ -131,7 +131,3 @@ If you use this project in your research, please cite as:
 Onawole, A.R., (2025). NetworkAware-AgentPy: A Python framework for network-aware multi-agent autonomous systems. GitHub Repository, https://github.com/yomex96/NetworkAware-AgentPy
 ```
 
-```
-
-
-
