@@ -22,7 +22,7 @@ This repository includes a **ready-to-run demo simulation notebook** to showcase
 ## 🔹 Installation
 
 ```bash
-git clone https://github.com/<your-username>/NetworkAware-AgentPy.git
+git clone https://github.com/yomex96/NetworkAware-AgentPy.git
 cd NetworkAware-AgentPy
 pip install -r requirements.txt
 🔹 Key Features
@@ -119,6 +119,7 @@ Visualization (graphs of agent positions and network status)
 Metrics & Analysis (resilience, coordination efficiency)
 
 Conclusion & Next Steps
+
 
 
 
