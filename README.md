@@ -82,16 +82,6 @@ The framework aligns with current trends in **agentic AI, multi-agent orchestrat
 * Large-scale simulation of **societal infrastructures** under realistic network conditions
 * Comparative experiments on **coordination strategies and resilience mechanisms**
 
----
-
-## 🔹 Visual Abstract / Diagram
-
-This diagram shows **agents (vehicles, drones, sensors)** in a networked environment, highlighting **communication links and resilience mechanisms**:
-
-![NetworkAware-AgentPy Overview](docs/network_visual.png)
-
----
-
 ## 🔹 Analysis & Metrics
 
 This project supports analysis of:
@@ -142,5 +132,6 @@ Onawole, A.R., (2025). NetworkAware-AgentPy: A Python framework for network-awar
 ```
 
 ```
+
 
 
