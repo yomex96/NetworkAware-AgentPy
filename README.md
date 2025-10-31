@@ -1,4 +1,4 @@
-*
+### NetworkAware-AgentPy
 
 ````markdown
 # NetworkAware-AgentPy
@@ -157,6 +157,7 @@ plt.show()
 4. **Visualization** (matplotlib/plotly graphs of agent positions and network status)
 5. **Metrics & Analysis** (resilience, coordination efficiency)
 6. **Conclusion & Next Steps**
+
 
 
 
