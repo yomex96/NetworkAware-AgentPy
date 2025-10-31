@@ -85,7 +85,7 @@ This project demonstrates the **design of resilient, collaborative, network-awar
 
 This diagram shows **agents (vehicles, drones, sensors)** in a networked environment, highlighting **network links and resilience mechanisms**:
 
-![NetworkAware-AgentPy Overview](docs/network_visual.png)
+
 
 ---
 
@@ -157,6 +157,7 @@ plt.show()
 4. **Visualization** (matplotlib/plotly graphs of agent positions and network status)
 5. **Metrics & Analysis** (resilience, coordination efficiency)
 6. **Conclusion & Next Steps**
+
 
 
 
