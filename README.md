@@ -6,6 +6,8 @@
 
 **NetworkAware-AgentPy** is a **research-grade Python framework for network-aware, resilient multi-agent autonomous systems**. Built on **agent-based modeling**, this project allows researchers to **simulate, analyze, and visualize autonomous agents under network constraints**, with applications in **urban systems, IoT networks, smart infrastructure, and distributed autonomous workflows**.
 
+**A Python framework to model, simulate, and analyze network-aware, resilient multi-agent autonomous systems for urban and IoT applications.**
+
 This repository includes a **ready-to-run demo simulation notebook** to showcase research contributions visually.
 
 ---
@@ -25,7 +27,10 @@ This repository includes a **ready-to-run demo simulation notebook** to showcase
 git clone https://github.com/yomex96/NetworkAware-AgentPy.git
 cd NetworkAware-AgentPy
 pip install -r requirements.txt
-🔹 Key Features
+
+```
+
+### 🔹 Key Features
 Multi-agent simulation with customizable agents and behaviors
 
 Network-aware environments: latency, bandwidth constraints, link failures
@@ -36,10 +41,10 @@ Scenario examples: traffic coordination, IoT sensor networks, autonomous drone f
 
 Data analysis & visualization for performance metrics and emergent behaviors
 
-##🔹 Demo Simulation: Network-Aware Traffic Coordination
+## 🔹 Demo Simulation: Network-Aware Traffic Coordination
 This demo illustrates autonomous vehicles coordinating under network constraints in a simulated urban environment.
 
-#Objective
+### Objective
 Simulate autonomous vehicles navigating a city grid
 
 Agents communicate through a limited network with latency and packet loss
@@ -55,7 +60,7 @@ Resilience
 
 Visualization & Metrics
 
-##Getting Started
+## Getting Started
 ---
 jupyter notebook notebooks/demo_simulation.ipynb
 
@@ -91,14 +96,16 @@ Emergent behavior: Patterns that arise from decentralized agent interactions
 
 Example Python snippet for communication success rate:
 
+```
 python
-Copy code
+
 success_counts = []
 for _ in range(steps):
     successes = sum(random.random() > env.packet_loss for _ in links)
     success_counts.append(successes)
 success_rate = np.array(success_counts) / len(links)
 Visualization of metrics is included in the demo notebook.
+```
 
 ## 🔹 Citing this Work
 If you use this project in your research, please cite as:
@@ -106,7 +113,8 @@ If you use this project in your research, please cite as:
 
 Onawole, A.R., (2025). NetworkAware-AgentPy: A Python framework for network-aware multi-agent autonomous systems. GitHub Repository, https://github.com/yomex96/NetworkAware-AgentPy
 
-##🔹 Demo Notebook Structure
+## 🔹 Demo Notebook Structure
+
 notebooks/demo_simulation.ipynb includes:
 
 Introduction & Objective
@@ -120,6 +128,7 @@ Visualization (graphs of agent positions and network status)
 Metrics & Analysis (resilience, coordination efficiency)
 
 Conclusion & Next Steps
+
 
 
 
