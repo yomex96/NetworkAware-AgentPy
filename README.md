@@ -36,10 +36,10 @@ Scenario examples: traffic coordination, IoT sensor networks, autonomous drone f
 
 Data analysis & visualization for performance metrics and emergent behaviors
 
-🔹 Demo Simulation: Network-Aware Traffic Coordination
+##🔹 Demo Simulation: Network-Aware Traffic Coordination
 This demo illustrates autonomous vehicles coordinating under network constraints in a simulated urban environment.
 
-Objective
+#Objective
 Simulate autonomous vehicles navigating a city grid
 
 Agents communicate through a limited network with latency and packet loss
@@ -55,11 +55,12 @@ Resilience
 
 Visualization & Metrics
 
-Getting Started
-bash
-Copy code
+##Getting Started
+---
 jupyter notebook notebooks/demo_simulation.ipynb
+
 🔹 Research Motivation
+
 This project demonstrates the design of resilient, collaborative, and network-aware multi-agent autonomous systems. It bridges theory and practical applications in urban infrastructure, IoT, and distributed systems, supporting research in autonomous workflows, agentic AI, and network-aware decision-making.
 
 Relevance to PhD research: The framework aligns with current trends in agentic AI, multi-agent orchestration, and autonomous systems, providing hands-on experiments relevant to MIT IDSS and interdisciplinary autonomous systems research.
@@ -99,13 +100,13 @@ for _ in range(steps):
 success_rate = np.array(success_counts) / len(links)
 Visualization of metrics is included in the demo notebook.
 
-🔹 Citing this Work
+## 🔹 Citing this Work
 If you use this project in your research, please cite as:
 
-less
-Copy code
-Onawole, A.R., (2025). NetworkAware-AgentPy: A Python framework for network-aware multi-agent autonomous systems. GitHub Repository, https://github.com/<your-username>/NetworkAware-AgentPy
-🔹 Demo Notebook Structure
+
+Onawole, A.R., (2025). NetworkAware-AgentPy: A Python framework for network-aware multi-agent autonomous systems. GitHub Repository, https://github.com/yomex96/NetworkAware-AgentPy
+
+##🔹 Demo Notebook Structure
 notebooks/demo_simulation.ipynb includes:
 
 Introduction & Objective
@@ -119,6 +120,7 @@ Visualization (graphs of agent positions and network status)
 Metrics & Analysis (resilience, coordination efficiency)
 
 Conclusion & Next Steps
+
 
 
 
