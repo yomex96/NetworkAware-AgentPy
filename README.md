@@ -1,8 +1,6 @@
 # NetworkAware-AgentPy
 
-[![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/)  
-[![License](https://img.shields.io/github/license/yomex96/NetworkAware-AgentPy)](https://github.com/yomex96/NetworkAware-AgentPy/blob/main/LICENSE)  
-[![Documentation Status](https://readthedocs.org/projects/agentpy/badge/?version=latest)](https://agentpy.readthedocs.io/en/latest/?badge=latest)  
+[![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/)  [![License](https://img.shields.io/github/license/yomex96/NetworkAware-AgentPy)](https://github.com/yomex96/NetworkAware-AgentPy/blob/main/LICENSE)  [![Documentation Status](https://readthedocs.org/projects/agentpy/badge/?version=latest)](https://agentpy.readthedocs.io/en/latest/?badge=latest)  
 [![GitHub stars](https://img.shields.io/github/stars/yomex96/NetworkAware-AgentPy?style=social)](https://github.com/yomex96/NetworkAware-AgentPy/stargazers)  
 [![GitHub forks](https://img.shields.io/github/forks/yomex96/NetworkAware-AgentPy?style=social)](https://github.com/yomex96/NetworkAware-AgentPy/network/members)  
 [![Build Status](https://img.shields.io/github/actions/workflow/status/yomex96/NetworkAware-AgentPy/python-package.yml?branch=main)](https://github.com/yomex96/NetworkAware-AgentPy/actions)
@@ -134,6 +132,7 @@ If you use this project in your research, please cite as:
 ```
 Onawole, A.R., (2025). NetworkAware-AgentPy: A Python framework for network-aware multi-agent autonomous systems. GitHub Repository, https://github.com/yomex96/NetworkAware-AgentPy
 ```
+
 
 
 
