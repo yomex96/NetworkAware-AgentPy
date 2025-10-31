@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 ## 🔹 Demo Simulation: Network-Aware Traffic Coordination
 
-You said: **yes** — this demo illustrates **autonomous vehicles coordinating under network constraints**.
+ this demo illustrates **autonomous vehicles coordinating under network constraints**.
 
 ### Objective
 
@@ -157,6 +157,7 @@ plt.show()
 4. **Visualization** (matplotlib/plotly graphs of agent positions and network status)
 5. **Metrics & Analysis** (resilience, coordination efficiency)
 6. **Conclusion & Next Steps**
+
 
 
 
