@@ -1,8 +1,4 @@
-Perfect! Here’s a **fully polished, committee-ready Markdown README** for your **NetworkAware-AgentPy** project. It’s structured for readability, includes proper headings, bullets, code blocks, and visual figure placeholders. You can copy-paste it directly to your GitHub.
 
----
-
-````markdown
 # NetworkAware-AgentPy
 
 [![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/)  
@@ -146,4 +142,5 @@ Onawole, A.R., (2025). NetworkAware-AgentPy: A Python framework for network-awar
 ```
 
 ```
+
 
